@@ -1,1 +1,1 @@
-# -STORY-HUB--1
+# StoryHub1
